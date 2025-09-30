@@ -1,0 +1,14 @@
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.AssemblyInfoInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.AssemblyInfo.cs
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.csproj.CoreCompileInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\bin\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.exe
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\bin\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.deps.json
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\bin\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.runtimeconfig.json
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\bin\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.dll
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\bin\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.pdb
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.dll
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\refint\CAFavoreCompositionOverInheritanceBefore.dll
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.pdb
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\CAFavoreCompositionOverInheritanceBefore.genruntimeconfig.cache
+E:\visual staudio\vs projects\My .Net Learning\CAFavoreCompositionOverInheritance\CAFavoreCompositionOverInheritanceBefore\obj\Debug\net8.0\ref\CAFavoreCompositionOverInheritanceBefore.dll

@@ -1,0 +1,14 @@
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\bin\Debug\net8.0\SOLID.SRP.EX2.exe
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\bin\Debug\net8.0\SOLID.SRP.EX2.deps.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\bin\Debug\net8.0\SOLID.SRP.EX2.runtimeconfig.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\bin\Debug\net8.0\SOLID.SRP.EX2.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\bin\Debug\net8.0\SOLID.SRP.EX2.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.AssemblyInfoInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.AssemblyInfo.cs
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.csproj.CoreCompileInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\refint\SOLID.SRP.EX2.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\SOLID.SRP.EX2.genruntimeconfig.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\SOLID.SRP\SOLID.SRP.EX2\obj\Debug\net8.0\ref\SOLID.SRP.EX2.dll

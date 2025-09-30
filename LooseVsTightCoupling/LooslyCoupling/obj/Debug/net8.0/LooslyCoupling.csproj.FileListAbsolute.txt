@@ -1,0 +1,14 @@
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\bin\Debug\net8.0\LooslyCoupling.exe
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\bin\Debug\net8.0\LooslyCoupling.deps.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\bin\Debug\net8.0\LooslyCoupling.runtimeconfig.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\bin\Debug\net8.0\LooslyCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\bin\Debug\net8.0\LooslyCoupling.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.AssemblyInfoInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.AssemblyInfo.cs
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.csproj.CoreCompileInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\refint\LooslyCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\LooslyCoupling.genruntimeconfig.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\LooslyCoupling\obj\Debug\net8.0\ref\LooslyCoupling.dll

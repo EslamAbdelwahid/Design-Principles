@@ -1,0 +1,14 @@
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\bin\Debug\net8.0\TightCoupling.exe
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\bin\Debug\net8.0\TightCoupling.deps.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\bin\Debug\net8.0\TightCoupling.runtimeconfig.json
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\bin\Debug\net8.0\TightCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\bin\Debug\net8.0\TightCoupling.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.AssemblyInfoInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.AssemblyInfo.cs
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.csproj.CoreCompileInputs.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\refint\TightCoupling.dll
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.pdb
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\TightCoupling.genruntimeconfig.cache
+E:\visual staudio\vs projects\My .Net Learning\Design Principles\LooseVsTightCoupling\TightCoupling\obj\Debug\net8.0\ref\TightCoupling.dll

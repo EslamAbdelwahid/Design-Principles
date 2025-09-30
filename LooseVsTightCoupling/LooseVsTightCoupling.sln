@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TightCoupling", "TightCoupling\TightCoupling.csproj", "{9FE7C198-4034-4AAE-B28F-E3919A84E28F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LooslyCoupling", "LooslyCoupling\LooslyCoupling.csproj", "{AEA12189-B3A3-4BE2-9BC3-D13D9A584FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FE7C198-4034-4AAE-B28F-E3919A84E28F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FE7C198-4034-4AAE-B28F-E3919A84E28F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FE7C198-4034-4AAE-B28F-E3919A84E28F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FE7C198-4034-4AAE-B28F-E3919A84E28F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEA12189-B3A3-4BE2-9BC3-D13D9A584FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEA12189-B3A3-4BE2-9BC3-D13D9A584FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEA12189-B3A3-4BE2-9BC3-D13D9A584FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEA12189-B3A3-4BE2-9BC3-D13D9A584FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {367DD683-8A04-4154-9021-4F896BE4752B}
+	EndGlobalSection
+EndGlobal

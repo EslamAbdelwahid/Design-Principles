@@ -1,6 +1,6 @@
-# 🧩 SOLID Principles — Interface Segregation & Liskov Substitution (C# Reference)
+# 🧩 SOLID Principles — Interface Segregation & Liskov Substitution 
 
-This reference explains **Interface Segregation Principle (ISP)** and **Liskov Substitution Principle (LSP)** using C# examples, written in both English and simple Arabic-style explanations.
+This reference explains **Interface Segregation Principle (ISP)** and **Liskov Substitution Principle (LSP)** using C# examples
 
 ---
 
